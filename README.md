@@ -72,6 +72,9 @@ Conducted best practices with python for API integration.
 Learned git workflow for project development
 Last but not least I learned cloud resource management.
 
+## Resources
+Fetched weather resources from the following link: https://openweathermap.org/api
+
 ## Results
 Bucket weather-birdman-dashboard-22259 exists
 Successfully created bucket weather-birdman-dashboard-22259
