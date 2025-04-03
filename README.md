@@ -66,7 +66,7 @@ By this being my first DevOps project with AWS.
 I learned that debugging is crucial and error handling in distributed systems are essential.
 Initially I ran into errors creating my S3 buckets.
 However I did learn that those issues were caused by my user not having bucket permissions.
-I updated my user permissions and ran the script again and I had so much joy to see the cities (objects) were being pulled into my S3 bucket.
+I updated my user permissions and ran the script again and I had so much joy to see the cities (objects) were being populated into my S3 bucket.
 I learned environment variable management for secure API keys.
 Conducted best practices with python for API integration.
 Learned git workflow for project development
